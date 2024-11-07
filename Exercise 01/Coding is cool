@@ -1,9 +1,0 @@
-# the variable word1 is assigned the first word
-word1 = "Coding"
-# the variable word2 is assigned the second word
-word2 = "is"
-# the variable word3 is assigned the third word
-word3 = "Cool"
-# string concatenation is used to combine variables with spaces in between
-#prints to console the "coding, is ,cool" phrase
-print (word1 + " " + word2 +" "+word3 )
