@@ -1,9 +1,0 @@
-# Step 1: Ask the question
-answer = input("What is the capital of France? ")
-
-# Step 2 & 3: Check if the answer is correct and provide feedback
-if answer.strip().lower() == "paris":
-    print("Correct! The capital of France is Paris.")
-else:
-    print("Wrong answer. The correct answer is Paris.")
-
